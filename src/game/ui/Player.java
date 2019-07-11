@@ -88,7 +88,7 @@ public class Player{
                                 //System.out.println(hand[0].substring(0));
                                 //System.out.println(hand[1].substring(0));
 
-                                System.out.println(value[i]);
+                                //System.out.println(value[i]);
                         }
                         else{
                             value[i] = 14;
@@ -98,7 +98,7 @@ public class Player{
                             System.out.println(hand[2].substring(0,1));
 
 
-                            System.out.println(value[i]);
+                            //System.out.println(value[i]);
                         }
                 break;
                 default:
